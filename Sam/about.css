@@ -1,0 +1,41 @@
+
+
+.logo img{
+    height: 350px;
+    width: 700px;
+    margin:90px 0 0 450px ;
+}
+
+.info{
+    display: flex;
+    justify-content: space-around;
+    border-top: 40px solid rgb(20, 20, 70);
+    border-bottom: 40px solid rgb(20, 20, 70);
+    padding-left: 100px;
+}
+
+
+.info p{
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    color: rgb(19, 19, 88);
+    font-size: 20px;
+    line-height:40px;
+}
+
+.info img{
+    height:300px;
+    width: 500px;
+    padding: 10px;
+    margin:10px;
+}
+
+
+footer{
+    margin-top:0px;
+    background-color: #ffffff;
+    height: 350px;
+    width: 100vw;
+    display: inline-flex;
+    color:#171b4b;
+    border-top: 40px solid #181d51;
+}

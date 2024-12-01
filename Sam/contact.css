@@ -1,0 +1,36 @@
+
+h1{
+    font-size:30px;
+    color:rgb(22, 22, 66);
+    margin-left: 20%;
+    padding-bottom: 20px;
+}
+
+.cform{
+    position: absolute;
+    top:20%;
+    left:30%;
+    border: 3px solid rgb(25, 32, 73);
+    padding: 50px;
+    border-radius: 5%;
+}
+ 
+
+.info{
+    display: block;
+    padding: 10px;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(29, 29, 81);
+    color:white;
+    border: 2px solid rgb(25, 25, 89);
+    padding: 10px;
+}
+
+button:hover{
+   
+    background-color: rgb(227, 227, 232);
+    color:rgb(17, 17, 66);
+}
